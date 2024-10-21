@@ -2,6 +2,8 @@
 
 This repository contains my MSc disseration project, which predicts the harmfulness of bacteria using various characteristics. The main aim of this project was to accurately classify bacteria and assess their potential risk to human health. Supervised machine learning techniques were used to achieve this.
 
+I chose this topic because I thoroughly enjoyed the machine learning modules throughout my studies. I also saw an opportunity to blend my MSc in AI with my BSc in Biology, making this project a fun and meaningful intersection of both fields. 
+
 ## 📝 Project Overview
 - **Title**: Predicting Bacterial Harmfulness: An Evaluation of Machine Learning Models for Classification Based on Family and Environment
 - **Research Questions**:
