@@ -30,8 +30,8 @@ This repository contains my MSc disseration project, which predicts the harmfuln
 - **Others**: Jupyter Notebooks for analysis and visualisation
 
 ## 📁 Repository Structure
-- `notebooks/`: Jupyter notebooks containing the analysis and model-building steps.
-- - Full Report is included in the repository as a PDF.
+- Full code containing the analysis and model-building steps included as an ipynb file.
+- Full Report is included in the repository as a PDF.
 
 ## 📊 Results
 - The best-performing model was the K-Nearest Neighbours classifier with an accuracy of 85% and AUC of 0.9211.
